@@ -1,6 +1,6 @@
 ### Hi, I am Patricia Mendez👋
 
-- 🔭 I’m front end dev...
+- 🔭 I’m front end WebDev...
 
 - 😄 Pronouns: she/her..
 ##
